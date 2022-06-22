@@ -16,6 +16,4 @@ I have also included the vsim_comp.sh and vsim_sim.sh bash scripts used to compi
 
 FENCE,ECALL and EBREAK as well as interupt handling have not been implemented yet.
 
-
-!
 ![Screenshot from 2022-06-21 18-16-46](https://user-images.githubusercontent.com/39601174/175173986-f24b9b7a-71ce-4e1f-8f3c-85d1fe79549f.png)
