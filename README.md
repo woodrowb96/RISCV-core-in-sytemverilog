@@ -2,8 +2,8 @@
 This project is an implementation of the RISCV RV32I base integer instruction set in systemverilog. 
 
 The ISA implementation includes
-* a five stage pipeline with forwarding and hazard detection implemented
-* branch prediction 
+* A five stage pipeline with forwarding and hazard detection implemented
+* Dynamic branch prediction 
 * L1 instruction and data caches
 
 A simplified block diagram of the implementation can be seen bellow.
