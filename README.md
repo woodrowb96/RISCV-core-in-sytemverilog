@@ -1,4 +1,4 @@
-# RISCV-core-in-sytemverilog
+# RISCV-core-in-systemverilog
 This project is an implementation of the RISCV RV32I base integer instruction set in systemverilog. 
 
 The ISA implementation includes
